@@ -1,0 +1,19 @@
+{
+  "name": "portifolio",
+  "version": "3.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FilipeAzevedog/portifoliov3.git"
+  },
+  "author": "filipeazg",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/FilipeAzevedog/portifoliov3/issues"
+  },
+  "homepage": "https://github.com/FilipeAzevedog/portifoliov3#readme"
+}
